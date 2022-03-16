@@ -6,8 +6,6 @@
 * Return: 0
 */
 
-int largest_number(int,int,int);
-
 int main(void)
 {
         int a, b, c;
